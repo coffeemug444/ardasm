@@ -93,7 +93,14 @@ def doThings():
                 for note in notes:
                     note = note.strip()
                     parts = note.split(":")
-                    send(keysdict[parts[0]], intervals[parts[1]])
+                    interval_ms = 0
+                    print(line)
+                    if "+" in parts[1]:
+                        for interval in parts[1].split("+"):
+                            interval_ms += intervals[interval]
+                    else:
+                        interval_ms += intervals[parts[1]]
+                    send(keysdict[parts[0]], interval_ms)
             sleep(intervals["s"]/1000)
 
 entered = False
