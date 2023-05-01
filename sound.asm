@@ -36,7 +36,7 @@ f3H: .byte 1
 .org $0016						; TIMER1_COMPA interrupt (1kHz)
 	rjmp timerint
 
-.org $001C						; TIMER0_COMPA interrupt (fuckin' fast)
+.org $001C						; TIMER0_COMPA interrupt (250kHz)
 	rjmp freqint
 
 
