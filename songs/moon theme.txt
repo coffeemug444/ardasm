@@ -165,168 +165,300 @@ Ab6:e;Fs6:e
 Fs6:e;Cs7:dw+w+e
 
 ----
-Fs5:e;Fs4:e
+Fs5:e;Fs3:e
 
-Cs6:e;Fs4:e
+Cs6:e;Fs3:e
 
-Fs6:e;Fs4:e
+Fs6:e;Fs3:e
 
-Ab6:e;Fs4:e
+Ab6:e;Fs3:e
 
-Cs6:e;Fs4:e
+Cs6:e;Fs3:e
 
-Fs6:e;Fs4:e
+Fs6:e;Fs3:e
 
-Ab6:e;Fs4:e
+Ab6:e;Fs3:e
 
-Cs6:e;Fs4:e
+Cs6:e;Fs3:e
 
-B6:e;Fs4:e
+B6:e;Fs3:e
 
-Cs6:e;Fs4:e
+Cs6:e;Fs3:e
 
-B6:e;Fs4:e
+B6:e;Fs3:e
 
-Bb6:e;Fs4:e
+Bb6:e;Fs3:e
 
-Cs6:e;Fs4:e
+Cs6:e;Fs3:e
 
-Bb6:e;Fs4:e
+Bb6:e;Fs3:e
 
-Ab6:e;Fs4:e
+Ab6:e;Fs3:e
 
-Fs6:e;Fs4:e
-
-----
-Fs5:e;Fs4:e
-
-Cs6:e;Fs4:e
-
-Fs6:e;Fs4:e
-
-Ab6:e;Fs4:e
-
-Cs6:e;Fs4:e;Bb4:e
-
-Fs6:e;Fs4:e;B4:e
-
-Ab6:e;Fs4:e;Cs5:e
-
-Cs6:e;Fs4:e;Cs5:dq
-
-B6:e;F4:e
-
-Cs6:e;F4:e
-
-B6:e;F4:e;Fs5:q
-
-Bb6:e;F4:e
-
-Cs6:e;F4:e;F5:q
-
-Bb6:e;F4:e
-
-Ab6:e;F4:e;Fs5:q
-
-Fs6:e;F4:e
+Fs6:e;Fs3:e
 
 ----
-Fs5:e;Fs4:e;Ab5:q
+Fs5:e;Fs3:e
 
-Cs6:e;Fs4:e
+Cs6:e;Fs3:e
 
-Fs6:e;Fs4:e;Bb5:e
+Fs6:e;Fs3:e
 
-Ab6:e;Fs4:e;Fs5:w
+Ab6:e;Fs3:e
 
-Cs6:e;Fs4:e
+Cs6:e;Fs3:e;Bb4:e
 
-Fs6:e;Fs4:e
+Fs6:e;Fs3:e;B4:e
 
-Ab6:e;Fs4:e
+Ab6:e;Fs3:e;Cs5:e
 
-Cs6:e;Fs4:e
+Cs6:e;Fs3:e;Cs5:dq
 
-B6:e;Cs4:e
+B6:e;F3:e
 
-Cs6:e;Cs4:e
+Cs6:e;F3:e
 
-B6:e;Cs4:e
+B6:e;F3:e;Fs5:q
 
-Bb6:e;Cs4:e
+Bb6:e;F3:e
 
-Cs6:e;Cs4:e
+Cs6:e;F3:e;F5:q
 
-Bb6:e;Cs4:e
+Bb6:e;F3:e
 
-Ab6:e;Cs4:e;F5:e
+Ab6:e;F3:e;Fs5:q
 
-Fs6:e;Cs4:e;Fs5:e
-
-----
-Fs5:e;B3:e;Cs6:dq
-
-Cs6:e;B3:e
-
-Fs6:e;B3:e
-
-Ab6:e;B3:e;Fs5:e
-
-Cs6:e;B3:e;Fs5:w
-
-Fs6:e;B3:e
-
-Ab6:e;B3:e
-
-Cs6:e;B3:e
-
-B6:e;C4:e
-
-Cs6:e;C4:e
-
-B6:e;C4:e
-
-Bb6:e;C4:e
-
-Cs6:e;C4:e
-
-Bb6:e;C4:e
-
-Ab6:e;C4:e;Fs5:e
-
-Fs6:e;C4:e;Fs5:e
+Fs6:e;F3:e
 
 ----
-Fs5:e;Cs4:e;Fs5:h+e
+Fs5:e;Fs3:e;Ab5:q
 
-Cs6:e;Cs4:e
+Cs6:e;Fs3:e
 
-Fs6:e;Cs4:e
+Fs6:e;Fs3:e;Bb5:e
 
-Ab6:e;Cs4:e
+Ab6:e;Fs3:e;Fs5:w
 
-Cs6:e;Cs4:e
+Cs6:e;Fs3:e
 
-Fs6:e;Cs4:e;Ab5:e
+Fs6:e;Fs3:e
 
-Ab6:e;Cs4:e;Fs5:e
+Ab6:e;Fs3:e
 
-Cs6:e;Cs4:e;F5:w+e
+Cs6:e;Fs3:e
 
-B6:e;Cs4:e
+B6:e;Cs3:e
 
-Cs6:e;Cs4:e
+Cs6:e;Cs3:e
 
-B6:e;Cs4:e
+B6:e;Cs3:e
 
-Bb6:e;Cs4:e
+Bb6:e;Cs3:e
 
-Cs6:e;Cs4:e
+Cs6:e;Cs3:e
 
-Bb6:e;Cs4:e
+Bb6:e;Cs3:e
 
-Ab6:e;Cs4:e
+Ab6:e;Cs3:e;F5:e
 
-Fs6:e;Cs4:e
+Fs6:e;Cs3:e;Fs5:e
+
+----
+Fs5:e;B2:e;Cs6:dq
+
+Cs6:e;B2:e
+
+Fs6:e;B2:e
+
+Ab6:e;B2:e;Fs5:e
+
+Cs6:e;B2:e;Fs5:w
+
+Fs6:e;B2:e
+
+Ab6:e;B2:e
+
+Cs6:e;B2:e
+
+B6:e;C3:e
+
+Cs6:e;C3:e
+
+B6:e;C3:e
+
+Bb6:e;C3:e
+
+Cs6:e;C3:e
+
+Bb6:e;C3:e
+
+Ab6:e;C3:e;Fs5:e
+
+Fs6:e;C3:e;Fs5:e
+
+---
+Fs5:e;Cs3:e;Fs5:h+e
+
+Cs6:e;Cs3:e
+
+Fs6:e;Cs3:e
+
+Ab6:e;Cs3:e
+
+Cs6:e;Cs3:e
+
+Fs6:e;Cs3:e;Ab5:e
+
+Ab6:e;Cs3:e;Fs5:e
+
+Cs6:e;Cs3:e;F5:w+e
+
+B6:e;Cs3:e
+
+Cs6:e;Cs3:e
+
+B6:e;Cs3:e
+
+Bb6:e;Cs3:e
+
+Cs6:e;Cs3:e
+
+Bb6:e;Cs3:e
+
+Ab6:e;Cs3:e
+
+Fs6:e;Cs3:e
+
+----
+Fs5:e;Fs3:e;Bb4:h+e
+
+Cs6:e;Fs3:e
+
+Fs6:e;Fs3:e
+
+Ab6:e;Fs3:e
+
+Cs6:e;Fs3:e
+
+Fs6:e;Fs3:e;Ab4:e
+
+Ab6:e;Fs3:e;Fs4:e
+
+Cs6:e;Fs3:e;Cs5:h+e
+
+B6:e;E3:e
+
+Cs6:e;E3:e
+
+B6:e;E3:e
+
+Bb6:e;E3:e
+
+Cs6:e;E3:e;Fs5:q
+
+Bb6:e;E3:e
+
+Ab6:e;E3:e;Ab5:q
+
+Fs6:e;E3:e
+
+----
+Fs5:e;Eb3:e;B5:dq
+
+Cs6:e;Eb3:e
+
+Fs6:e;Eb3:e
+
+Ab6:e;Eb3:e;Bb5:e
+
+Cs6:e;Eb3:e;Bb5:w
+
+Fs6:e;Eb3:e
+
+Ab6:e;Eb3:e
+
+Cs6:e;Eb3:e
+
+B6:e;D3:e
+
+Cs6:e;D3:e
+
+B6:e;D3:e
+
+Bb6:e;D3:e
+
+Cs6:e;D3:e;Cs6:q
+
+Bb6:e;D3:e
+
+Ab6:e;D3:e;B5:q
+
+Fs6:e;D3:e
+
+----
+Fs5:e;Cs3:e;Bb5:e
+
+Cs6:e;Cs3:e;B5:e
+
+Fs6:e;Cs3:e;Bb5:e
+
+Ab6:e;Cs3:e;Fs5:q
+
+Cs6:e;Cs3:e
+
+Fs6:e;Cs3:e;Cs5:h
+
+Ab6:e;Cs3:e
+
+Cs6:e;Cs3:e
+
+B6:e;C3:e
+
+Cs6:e;C3:e;Ab5:e
+
+B6:e;C3:e;Fs5:e
+
+Bb6:e;C3:e;F5:e
+
+Cs6:e;Cs3:e;Eb5:e
+
+Bb6:e;Cs3:e;F5:dq
+
+Ab6:e;Cs3:e
+
+Fs6:e;Cs3:e
+
+----
+A3:e;D5:e
+
+A5:e
+
+Cs6:e
+
+Ab6:e;B3:e;E5:e
+
+B5:e
+
+Ab6:e
+
+B6:e;Cs4:h;Fs5:h
+
+Bb6:e
+
+Fs6:e
+
+Cs6:e
+
+B5:e
+
+Bb5:e
+
+Fs5:e
+
+Cs5:e
+
+B4:e
+
+Bb4:e
 
 ----
