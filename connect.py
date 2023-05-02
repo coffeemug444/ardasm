@@ -94,7 +94,7 @@ def doThings():
                     note = note.strip()
                     parts = note.split(":")
                     interval_ms = 0
-                    print(line)
+                    print(note)
                     if "+" in parts[1]:
                         for interval in parts[1].split("+"):
                             interval_ms += intervals[interval]
